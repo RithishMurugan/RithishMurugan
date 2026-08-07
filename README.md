@@ -2,9 +2,9 @@
 
 # Hi, I'm Rithish Murugan 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=AI+Full+Stack+Software+Engineer;Healthcare+AI+%7C+GenAI+%7C+RAG;React+%7C+Python+%7C+FastAPI+%7C+AWS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=AI+Full+Stack+Software+Engineer;GenAI+%7C+RAG+%7C+Agentic+Systems;React+%7C+Python+%7C+FastAPI+%7C+AWS)](https://git.io/typing-svg)
 
-**Building intelligent full-stack systems — from copilot interfaces to production-grade AI platforms.**
+**Building intelligent full-stack applications — from modern web interfaces to production-grade AI systems.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rithishmurugan--portfolio.online-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.rithishmurugan-portfolio.online)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rithishmurugan)
@@ -19,15 +19,15 @@
 
 ## 🚀 About Me
 
-I'm an **AI Full Stack Software Engineer** focused on **healthcare AI**, **GenAI**, and **production-ready software**.
+I'm an **AI Full Stack Software Engineer** who builds **end-to-end software** — modern frontends, scalable backends, and intelligent AI features.
 
-I enjoy building clinician-facing copilots, RAG systems, React/TypeScript interfaces, Python/FastAPI backends, and cloud-native platforms with strong emphasis on **security**, **reliability**, and **human-in-the-loop AI**.
+I work across **GenAI**, **RAG pipelines**, **agentic workflows**, and **cloud-native platforms**, with a strong focus on **clean architecture**, **reliability**, and **shipping production-ready systems**.
 
 ```text
 role   → AI Full Stack Software Engineer
 stack  → React · TypeScript · Python · FastAPI · LangGraph · Kafka · AWS
-focus  → Healthcare AI · RAG · FHIR/HL7 · Full-Stack Copilots
-status → Open to collaborations & impactful engineering roles
+focus  → Full-Stack Apps · GenAI · RAG · APIs · Cloud Platforms
+status → Open to collaborations & engineering opportunities
 ```
 
 ---
@@ -64,10 +64,10 @@ status → Open to collaborations & impactful engineering roles
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 
-**Healthcare**  
-![FHIR](https://img.shields.io/badge/FHIR-Clinical%20Data-0EA5E9?style=flat-square)
-![HL7](https://img.shields.io/badge/HL7-Integrations-0284C7?style=flat-square)
-![HITL](https://img.shields.io/badge/AI%20Safety-HITL%20%7C%20PII-7C3AED?style=flat-square)
+**AI Engineering**  
+![Agents](https://img.shields.io/badge/Agentic%20AI-LangGraph-7C3AED?style=flat-square)
+![Safety](https://img.shields.io/badge/AI%20Safety-Evaluation%20%7C%20HITL-0EA5E9?style=flat-square)
+![APIs](https://img.shields.io/badge/REST%20APIs-Microservices-0284C7?style=flat-square)
 
 ---
 
@@ -83,24 +83,24 @@ status → Open to collaborations & impactful engineering roles
 
 ## 💼 Featured Projects
 
-### 🏥 Healthcare AI Copilot & Clinical Data Platform
-> Clinician-facing AI copilot — FastAPI, React/TypeScript, LangChain RAG, FHIR/HL7, Kafka, AWS EKS
+### ⚡ AI Copilot & Full-Stack Data Platform
+> Production full-stack platform — FastAPI, React/TypeScript, LangChain RAG, event-driven architecture, AWS EKS
 
-`Python` `FastAPI` `React` `TypeScript` `LangChain` `LangGraph` `RAG` `FHIR` `Kafka` `PostgreSQL` `Snowflake` `AWS EKS`
+`Python` `FastAPI` `React` `TypeScript` `LangChain` `LangGraph` `RAG` `Kafka` `PostgreSQL` `Snowflake` `AWS EKS`
 
-🔹 Copilot APIs with citation review & feedback capture  
-🔹 LangGraph workflows with HITL, groundedness & PII safeguards  
-🔹 Event-driven pipelines across 400K+ records & 50K+ monthly interactions  
+🔹 AI copilot APIs with review workflows & feedback capture  
+🔹 LangGraph agent orchestration with evaluation & safety guardrails  
+🔹 Scalable event-driven pipelines on cloud-native infrastructure  
 
 ---
 
-### 📊 [Call Center Analytics Dashboard](https://github.com/RithishMurugan/plaibook-call-center-dashboard)
-> Full-stack AI dashboard analyzing 451 call interactions with Gemini 2.5
+### 📊 [AI Analytics Dashboard](https://github.com/RithishMurugan/plaibook-call-center-dashboard)
+> Full-stack AI dashboard with LLM-powered insights, analytics, and interactive visualizations
 
 `React` `TypeScript` `Express.js` `Gemini 2.5` `Tailwind` `Recharts` `Node.js`
 
-🔹 LLM-driven insights from call transcripts  
-🔹 Conversion funnels & revenue modeling dashboards  
+🔹 LLM-driven insight extraction from unstructured data  
+🔹 Interactive dashboards with funnels and trend analysis  
 
 ---
 
@@ -114,13 +114,13 @@ status → Open to collaborations & impactful engineering roles
 
 ---
 
-### 🏨 [AI Guest Concierge Agent](https://github.com/RithishMurugan/AI-Guest-Concierge-Agent)
-> AI concierge with RAG on Pinecone + Supabase and n8n automation
+### 🧠 [AI Concierge Agent](https://github.com/RithishMurugan/AI-Guest-Concierge-Agent)
+> Intelligent assistant with RAG, vector search, and workflow automation
 
 `Python` `RAG` `Pinecone` `Supabase` `n8n` `REST APIs`
 
-🔹 Vector search over guest knowledge base  
-🔹 Workflow automation via REST integrations  
+🔹 Vector search over knowledge bases  
+🔹 Automated workflows via API integrations  
 
 ---
 
@@ -134,20 +134,20 @@ status → Open to collaborations & impactful engineering roles
 
 ---
 
-### 🚦 Traffic Management System (CLI Analytics)
-> Python + SQL CLI tool for traffic incident & route throughput analysis
+### 📈 Data Analytics CLI Tool
+> Python + SQL CLI application for multi-dataset querying and reporting
 
 `Python` `SQL` `Data Modeling`
 
-🔹 Normalized schemas for multi-dataset queries  
-🔹 Violation density & throughput reporting  
+🔹 Normalized schemas for structured data analysis  
+🔹 Query-driven reporting workflows  
 
 ---
 
 ### 🌐 [Portfolio Website](https://github.com/RithishMurugan/RithishMurugan-portfolio)
-> Modern AI engineer portfolio — Next.js, TypeScript, Framer Motion, theme toggle
+> Modern developer portfolio — Next.js, TypeScript, Framer Motion, dark/light themes
 
-`Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` `Google Forms`
+`Next.js` `TypeScript` `Tailwind CSS` `Framer Motion`
 
 🔗 **Live:** [rithishmurugan-portfolio.online](https://www.rithishmurugan-portfolio.online)
 
@@ -168,7 +168,7 @@ status → Open to collaborations & impactful engineering roles
 
 ## 🤝 Let's Connect
 
-I'm open to **AI Full Stack**, **healthcare AI**, and **platform engineering** collaborations.
+I'm open to **AI Full Stack** and **software engineering** collaborations.
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-2563EB?style=for-the-badge)](https://www.rithishmurugan-portfolio.online)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge)](https://linkedin.com/in/rithishmurugan)
@@ -181,6 +181,6 @@ I'm open to **AI Full Stack**, **healthcare AI**, and **platform engineering** c
 
 ⭐️ From [RithishMurugan](https://github.com/RithishMurugan)
 
-*"Building secure, reliable systems at the intersection of AI and full-stack engineering."*
+*"Building secure, reliable software at the intersection of AI and full-stack engineering."*
 
 </div>
